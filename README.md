@@ -15,8 +15,6 @@
 - 💻 Building projects using Python, OpenCV, LangChain, RAG, and LLMs
 - 🌱 Currently learning Advanced Machine Learning and MLOps
 - 🚀 Interested in AI Agents, Computer Vision, and Full-Stack Development
-- 📫 Reach me at: your-email@example.com
-
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
