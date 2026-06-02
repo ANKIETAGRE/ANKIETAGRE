@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Aniket Agre</h1>
-<h3 align="center">AI/ML Engineer | Data Science Enthusiast | B.Tech CSE Student | Aspiring AI Engineer | Machine Learning Developer</h3>
+<h3 align="center">B.Tech CSE Student | Aspiring AI Engineer | Machine Learning Developer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ANKIETAGRE">
