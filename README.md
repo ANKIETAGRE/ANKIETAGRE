@@ -11,7 +11,7 @@
 
 ## 📌 About Me
 - 🎓 B.Tech Computer Science Student (2022–2026)
-- 🤖 Passionate about Artificial Intelligence, Machine Learning, and GenerativAI
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI
 - 💻 Building projects using Python, OpenCV, LangChain, RAG, and LLMs
 - 🌱 Currently learning Advanced Machine Learning and MLOps
 - 🚀 Interested in AI Agents, Computer Vision, and Full-Stack Development
