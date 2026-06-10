@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Aniket Agre</h1>
+<h1 align="center">Hey I'm Aniket Agre</h1>
 <h3 align="center">B.Tech CSE Student | Aspiring AI Engineer | Machine Learning Developer</h3>
 
 <p align="center">
