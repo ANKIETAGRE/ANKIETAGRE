@@ -1,13 +1,7 @@
 <h1 align="center">Hey I'm Aniket Agre</h1>
 <h3 align="center">B.Tech CSE Student | Aspiring AI Engineer | Machine Learning Developer</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ANKIETAGRE">
-    <img src="https://komarev.com/ghpvc/?username=ANKIETAGRE&label=Profile%20views&color=00FFFF&style=flat-square" alt="ANKIETAGRE's profile views" />
-  </a>
-</p>
 
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🎓 B.Tech Computer Science Student (2022–2026)
