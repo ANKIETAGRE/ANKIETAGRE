@@ -10,18 +10,7 @@
 - 🌱 Currently learning Advanced Machine Learning and MLOps
 - 🚀 Interested in AI Agents, Computer Vision, and Full-Stack Development
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/ANKIETAGRE">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ANKIETAGRE&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="ANKIETAGRE's GitHub Stats" />
-  </a>
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ANKIETAGRE&theme=dark&radius=10" alt="ANKIETAGRE's Activity Graph" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+
 
 
 ## 🛠️ Languages & Tools
