@@ -1,5 +1,6 @@
 name: 3D City Builder
-
+on:
+permissions: read-all
 on:
   schedule:
     - cron: "0 0 * * *"
