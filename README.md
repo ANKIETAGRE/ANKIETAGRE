@@ -70,7 +70,6 @@
 
 <p align="center">
   <a href="https://github.com/ANKIETAGRE">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ANKIETAGRE&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
