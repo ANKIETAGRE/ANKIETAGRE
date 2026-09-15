@@ -1,8 +1,6 @@
 <h1 align="center">Hey I'm Aniket Agre</h1>
 <h3 align="center">B.Tech CSE Student | Aspiring AI Engineer | Machine Learning Developer</h3>
 
-
-
 ## 📌 About Me
 - 🎓 B.Tech Computer Science Student (2022–2026)
 - 🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI
